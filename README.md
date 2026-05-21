@@ -5,7 +5,7 @@
 I'm a data science student at the University of Tampa pursuing a B.S. in Data Science
 (minor in Mathematics with Computer Science). I build ML models,
 algorithmic tools, and data-driven applications. Incoming Data Science Intern
-@ The Haskell Company (Summer 2025).
+@ The Haskell Company (Summer 2026).
 
 ---
 
