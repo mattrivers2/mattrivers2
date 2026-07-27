@@ -45,12 +45,6 @@ Wrist-worn IMU-based device concept targeting route running mechanics for wide r
 
 ---
 
-**[RUBYBTC — Algorithmic Trading Bot](https://github.com/mattrivers2/RUBYBTC-Bot)**
-Defensive crypto-scanning bot built in Python using Supertrend indicators, RSI oversold filters, and real-time Fear & Greed sentiment analysis. Enforces automated 1.5:1 risk-management exits and reports live to Discord. Outperformed buy-and-hold by +24% during BTC's early 2026 crash.
-`Python` `Binance API` `Docker` `Discord API`
-
----
-
 **[Punch Dungeon — Text Adventure Game](https://github.com/mattrivers2/Punch-Dungeon)**
 A Python text adventure game featuring dungeon exploration, enemy combat, inventory management, and branching narrative choices. Built to practice object-oriented programming and game state logic.
 `Python` `OOP`
