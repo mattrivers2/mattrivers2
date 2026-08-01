@@ -40,7 +40,7 @@ algorithmic tools, and data-driven applications. Incoming Data Science Intern
 
 
 **VolStrap — Sports Wearable Startup** *(In Progress)*
-Wrist-worn IMU-based device concept targeting route running mechanics for wide receivers. Includes brand identity, a six-phase hardware/software build roadmap, and an ML pipeline for real-time biomechanical feedback.
+The first product of my tech startup AIMO (Athlete Intelligence in Motion), VolStrap is a Wrist-worn device concept targeting route running mechanics for wide receivers. Includes brand identity, a six-phase hardware/software build roadmap, and an ML pipeline for real-time biomechanical feedback.
 `Python` `IMU/Embedded Systems` `Product Design` `ML`
 
 ---
