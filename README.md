@@ -4,8 +4,8 @@
 
 I'm a data science student at the University of Tampa pursuing a B.S. in Data Science
 (minor in Mathematics with Computer Science). I build ML models,
-algorithmic tools, and data-driven applications. Incoming Data Science Intern
-@ The Haskell Company (Summer 2026).
+algorithmic tools, and data-driven applications. Check out my LinkedIn (linked below) 
+for more info about me!
 
 ---
 
@@ -16,8 +16,6 @@ algorithmic tools, and data-driven applications. Incoming Data Science Intern
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Tools**
 
