@@ -3,7 +3,7 @@
 ### Data Science Student | University of Tampa '28
 
 I'm a data science student at the University of Tampa pursuing a B.S. in Data Science
-(minor in Mathematics with Computer Science). I build ML models,
+(minor in AI Applications). I build ML models,
 algorithmic tools, and data-driven applications. Check out my LinkedIn (linked below) 
 for more info about me!
 
