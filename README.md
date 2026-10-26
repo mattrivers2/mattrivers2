@@ -55,14 +55,6 @@ A Python text adventure game featuring dungeon exploration, enemy combat, invent
 
 ---
 
-## 📚 Currently Studying
-
-- Embedded systems & wearable technology development
-- Data stewardship, governance frameworks, and best practices
-- Business intelligence tools and reporting at an advanced level
-
----
-
 ## 📬 Connect With Me
 
 - **Email:** riversmatt80@gmail.com
