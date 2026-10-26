@@ -3,7 +3,7 @@
 ### Data Science Student | University of Tampa '28
 
 I'm a data science student at the University of Tampa pursuing a B.S. in Data Science
-(minor in AI Applications). Check out my LinkedIn (linked below) 
+(minor in AI Applications). I have experience working across data pipelining, data governance and business intelligence. Check out my LinkedIn (linked below) 
 for more info about me!
 
 ---
