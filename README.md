@@ -3,8 +3,7 @@
 ### Data Science Student | University of Tampa '28
 
 I'm a data science student at the University of Tampa pursuing a B.S. in Data Science
-(minor in AI Applications). I build ML models,
-algorithmic tools, and data-driven applications. Check out my LinkedIn (linked below) 
+(minor in AI Applications). Check out my LinkedIn (linked below) 
 for more info about me!
 
 ---
@@ -36,6 +35,11 @@ for more info about me!
 
 ## 🚀 Projects
 
+**[Movie Recommendation System(s)](https://github.com/mattrivers2/movierecsys)** 
+Content-based, SVD, and hybrid movie recommenders on 855K MovieLens ratings; SVD beats a popularity baseline 75.3% to 66.3% hit rate @ 10
+`Python` `ML`
+
+---
 
 **VolStrap — Sports Wearable Startup** *(In Progress)*
 The first product of my tech startup AIMO (Athlete Intelligence in Motion), VolStrap is a Wrist-worn device concept targeting route running mechanics for wide receivers. Includes brand identity, a six-phase hardware/software build roadmap, and an ML pipeline for real-time biomechanical feedback.
