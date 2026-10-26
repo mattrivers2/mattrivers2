@@ -31,9 +31,7 @@ for more info about me!
 
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-0A1628?style=for-the-badge)
 ![Data Governance](https://img.shields.io/badge/Data_Governance-1D4ED8?style=for-the-badge)
-![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-0F172A?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-1D4ED8?style=for-the-badge)
-![API Integration](https://img.shields.io/badge/API_Integration-0A1628?style=for-the-badge)
 
 ---
 
