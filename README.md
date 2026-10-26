@@ -52,12 +52,6 @@ Logistic regression on wearable sensor data from exams, testing whether or not p
 A Python text adventure game featuring dungeon exploration, enemy combat, inventory management, and branching narrative choices. Built to practice object-oriented programming and game state logic.
 `Python` `OOP`
 
----
-
-**VolStrap — Sports Wearable Startup** *(In Progress)*
-The first product of my tech startup AIMO (Athlete Intelligence in Motion), VolStrap is a Wrist-worn device concept targeting route running mechanics for wide receivers. Includes brand identity, a six-phase hardware/software build roadmap, and an ML pipeline for real-time biomechanical feedback.
-`Python` `IMU/Embedded Systems` `Product Design` `ML`
-
 --- 
 
 ## 📬 Connect With Me
