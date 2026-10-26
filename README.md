@@ -38,14 +38,13 @@ for more info about me!
 ## 🚀 Projects
 
 **[Movie Recommendation System(s)](https://github.com/mattrivers2/movierecsys)** 
-Content-based, SVD, and hybrid movie recommenders on 855K MovieLens ratings; SVD beats a popularity baseline 75.3% to 66.3% hit rate @ 10
+Content-based, SVD, and hybrid movie recommenders on 855K MovieLens ratings; SVD beats a popularity baseline 75.3% to 66.3% hit rate@10.
 `Python` `ML`
 
 ---
 
-**VolStrap — Sports Wearable Startup** *(In Progress)*
-The first product of my tech startup AIMO (Athlete Intelligence in Motion), VolStrap is a Wrist-worn device concept targeting route running mechanics for wide receivers. Includes brand identity, a six-phase hardware/software build roadmap, and an ML pipeline for real-time biomechanical feedback.
-`Python` `IMU/Embedded Systems` `Product Design` `ML`
+**[Wearable Exam-Stress Analysis](https://github.com/mattrivers2/examstressproj)**
+Logistic regression on wearable sensor data from exams, testing whether or not physiological signals alone can predict performance of students. `Python` `ML`
 
 ---
 
@@ -54,6 +53,12 @@ A Python text adventure game featuring dungeon exploration, enemy combat, invent
 `Python` `OOP`
 
 ---
+
+**VolStrap — Sports Wearable Startup** *(In Progress)*
+The first product of my tech startup AIMO (Athlete Intelligence in Motion), VolStrap is a Wrist-worn device concept targeting route running mechanics for wide receivers. Includes brand identity, a six-phase hardware/software build roadmap, and an ML pipeline for real-time biomechanical feedback.
+`Python` `IMU/Embedded Systems` `Product Design` `ML`
+
+--- 
 
 ## 📬 Connect With Me
 
